@@ -22,3 +22,5 @@ animation between an Explore page and a Detail page.
 Explain each of the three properties you selected,
 how you changed it, and the visual effect.
 
+## Screenshots
+Check the folder **screenshots**
